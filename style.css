@@ -1,0 +1,33 @@
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    }
+    canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    }
+    .heading{
+        font-size: 25px;
+        width: 100%;
+         color: purple;
+        }
+    body{
+        background: rgb(35,145,152);
+        background: linear-gradient(90deg, rgba(35,145,152,1) 21%, rgba(63,10,208,1) 41%, rgba(133,14,157,1) 58%, rgba(226,22,22,1) 72%, rgba(215,62,199,1) 100%);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        
+    }
+    .note{
+        font-size: 15px;
+        color:black;
+        margin: 0px;
+        box-shadow:5px 5px 10px white;
+        }
+        
